@@ -9,7 +9,7 @@ using backtracking
 
 def isSafe(m_queen, nqueen):
     """ Method that determines if the queens can or can't kill each other
-    
+
     Args:
         m_queen: array that has the queens positions
         nqueen: queen number
